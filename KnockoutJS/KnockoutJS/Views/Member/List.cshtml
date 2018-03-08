@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>MemberList</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@section scripts{
+    <script>
+        $(function () {
+
+        })
+
+        function LoadData() {
+            $.ajax({
+                url: "",
+                type: "Get",
+                datatype: "json",
+                success: function (data) {
+
+                },
+                error: function () {
+                    console.log("loaddataError");
+                }
+            })
+        }
+
+    </script>
+
+}

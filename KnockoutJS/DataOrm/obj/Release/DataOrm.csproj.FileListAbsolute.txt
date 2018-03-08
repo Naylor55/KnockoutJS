@@ -1,0 +1,10 @@
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Release\DataOrm.dll.config
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Release\DataOrm.dll
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Release\DataOrm.pdb
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Release\EntityFramework.dll
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Release\EntityFramework.SqlServer.dll
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Release\EntityFramework.xml
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Release\EntityFramework.SqlServer.xml
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\obj\Release\DataOrm.dll
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\obj\Release\DataOrm.pdb

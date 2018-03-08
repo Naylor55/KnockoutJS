@@ -1,0 +1,11 @@
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Debug\DataOrm.dll.config
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Debug\DataOrm.dll
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Debug\EntityFramework.dll
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Debug\EntityFramework.xml
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\obj\Debug\DataOrm.dll
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\obj\Debug\DataOrm.pdb
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Debug\DataOrm.pdb
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\obj\Debug\DataOrm.csprojResolveAssemblyReference.cache
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\DataOrm\bin\Debug\zh-Hans\EntityFramework.resources.dll

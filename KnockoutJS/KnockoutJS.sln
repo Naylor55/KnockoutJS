@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockoutJS", "KnockoutJS\KnockoutJS.csproj", "{99A3B69B-A293-439B-8AEF-6FDFA3B4261C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataOrm", "DataOrm\DataOrm.csproj", "{A14DBFF8-CF36-404A-9BF1-EA869A9E7167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataApi", "DataApi\DataApi.csproj", "{9F9437F4-26A5-40F1-A444-9A1818045821}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{99A3B69B-A293-439B-8AEF-6FDFA3B4261C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99A3B69B-A293-439B-8AEF-6FDFA3B4261C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99A3B69B-A293-439B-8AEF-6FDFA3B4261C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14DBFF8-CF36-404A-9BF1-EA869A9E7167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14DBFF8-CF36-404A-9BF1-EA869A9E7167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14DBFF8-CF36-404A-9BF1-EA869A9E7167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14DBFF8-CF36-404A-9BF1-EA869A9E7167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9437F4-26A5-40F1-A444-9A1818045821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9437F4-26A5-40F1-A444-9A1818045821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9437F4-26A5-40F1-A444-9A1818045821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9437F4-26A5-40F1-A444-9A1818045821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

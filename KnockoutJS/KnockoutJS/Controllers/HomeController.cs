@@ -6,13 +6,14 @@ using System.Web.Mvc;
 
 namespace KnockoutJS.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         //
         // GET: /Home/
 
         public ActionResult Index()
         {
+            
             return View();
         }
 

@@ -26,7 +26,6 @@ C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\System.Web
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\System.Web.WebPages.xml
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\System.Web.WebPages.Deployment.xml
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\System.Web.WebPages.Razor.xml
-C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\zh-Hans\EntityFramework.resources.dll
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\zh-Hans\System.Web.Http.resources.dll
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
@@ -37,6 +36,9 @@ C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\zh-Hans\Sy
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\zh-Hans\System.Web.WebPages.resources.dll
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.csprojResolveAssemblyReference.cache
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.dll
 C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.pdb
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.csprojResolveAssemblyReference.cache
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\DataOrm.dll
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\DataOrm.pdb
+C:\Code\Naylor\GitHub\KnockoutJS\KnockoutJS\KnockoutJS\KnockoutJS\bin\zh-Hans\EntityFramework.resources.dll
